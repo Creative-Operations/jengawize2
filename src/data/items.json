@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Premium Steel Beams",
+      "category": "steel",
+      "price": 0.1,
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500",
+      "description": "High-quality structural steel beams for construction projects"
+    },
+    {
+      "id": 2,
+      "name": "Portland Cement",
+      "category": "cement",
+      "price": 0.05,
+      "image": "https://images.unsplash.com/photo-1518763422783-2889274e17a9?w=500", 
+      "description": "Professional grade Portland cement"
+    },
+    {
+      "id": 3,
+      "name": "Reinforced Concrete Blocks",
+      "category": "concrete",
+      "price": 0.02,
+      "image": "https://images.unsplash.com/photo-1516972810927-80185027ca84?w=500",
+      "description": "Heavy-duty concrete blocks for foundations"
+    },
+    {
+      "id": 4,
+      "name": "Construction Wire Bundle",
+      "category": "Binding Wire",
+      "price": 0.03,
+      "image": "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=500",
+      "description": "Multi-purpose binding wire for construction"
+    }
+  ]
+}

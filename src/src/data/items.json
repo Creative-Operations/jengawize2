@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Steel Beam I-240",
+      "category": "steel",
+      "price": 0.05,
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500",
+      "description": "High-quality structural steel I-beam for construction projects",
+      "specifications": {
+        "length": "6m",
+        "weight": "240kg",
+        "grade": "A36"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Portland Cement",
+      "category": "cement",
+      "price": 0.02,
+      "image": "https://images.unsplash.com/photo-1518465444133-2b3adaf867a0?w=500",
+      "description": "Premium grade Portland cement for all construction needs",
+      "specifications": {
+        "weight": "50kg",
+        "type": "Type I/II",
+        "strength": "4000 PSI"
+      }
+    }
+  ]
+}
